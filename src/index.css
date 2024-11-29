@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  color:white;
+  
+}
+body{
+  background-color: #3B1C32;
+  
+}
+h1{
+  font-size: revert;
+  font-weight: revert;
+}
+h2{
+  font-size: revert;
+  font-weight: revert;
+}
+h3{
+  font-size: revert;
+  font-weight: revert;
+}
+h4{
+  font-size: revert;
+  font-weight: revert;
+}
+
+form{
+  background-color: #A64D79;
+  
+}
+#tasklist::-webkit-scrollbar {
+  display: none;
+}
+#header{
+  position: sticky;
+  top:0px;
+  z-index: 1;
+}
