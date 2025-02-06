@@ -34,3 +34,9 @@ npm start
 
 ### **6️⃣ Open in Browser**  
 Visit **`http://localhost:3000`** to access the application.  
+```
+
+---
+Made with ❤️ by Prety Saha
+
+
